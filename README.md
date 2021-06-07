@@ -1,10 +1,10 @@
 # Hi! I'm [Paul](http://donald108.com)!
-A developer who's interested in [**novel game developmenet 🎮**](http://git.pa.ul.gr/university/space.trash) & [**astrophotography 🔭**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
+A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astrophotography**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
 
 I'm currently working on:
 - Upgrading [my website](http://donald108.com) to add more functionality to user profiles.
-- My multiplayer game [Pixl](http://pixl.gg).
-- [Photographing the stars ✨](http://stars.sh).
+- Creating my multiplayer game, [Pixl](http://pixl.gg).
+- [✨ Photographing the stars](http://stars.sh).
 
 Please check out my [GitLab](http://git.pa.ul.gr/explore) to explore some of my other projects.
 
