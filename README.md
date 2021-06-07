@@ -1,16 +1,16 @@
-# Hi! I'm [donald108](http://donald108.com)!
-A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astronomy**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
+# Hi! I'm [Paul](http://donald108.com)!
+A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astrophotography**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
 
 I'm currently working on:
-- Upgrading [my website](http://donald108.com) to add more functionality to user profiles 
-- Working on my multiplayer game [Pixl](http://pixl.gg)
+- Upgrading [my website](http://donald108.com) to add more functionality to user profiles.
+- My multiplayer game [Pixl](http://pixl.gg).
+- [Photographing the stars](http://stars.sh).
 
 Please check out my [GitLab](http://git.pa.ul.gr/explore) to explore some of my other projects.
 
 [![M81 & M82](https://donald108.com/static/images/background.jpg)](http://git.pa.ul.gr/explore)
 
-## Contact me
-Email: [`p@ul.gr`](mailto:p@ul.gr)
+Email me: [`p@ul.gr`](mailto:p@ul.gr)
 
 <!--
 **komodo108/komodo108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
