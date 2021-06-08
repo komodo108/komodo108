@@ -10,7 +10,7 @@ I do most of my work on my [GitLab](http://git.pa.ul.gr/explore). Please [check 
 
 [![M81 & M82](https://donald108.com/static/images/background.jpg)](http://git.pa.ul.gr/explore)
 
-[![](https://komarev.com/ghpvc/?username=komodo108&color=grey)](http://donald108.com) | Email me: [`p@ul.gr`](mailto:p@ul.gr)
+[![](https://komarev.com/ghpvc/?username=komodo108&color=222222)](http://donald108.com) | Email me: [`p@ul.gr`](mailto:p@ul.gr)
 
 <!--
 **komodo108/komodo108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
