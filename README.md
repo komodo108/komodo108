@@ -1,5 +1,5 @@
-# Hi! I'm [Paul](http://donald108.com)!
-A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astrophotography**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
+# Hi, I'm [Paul](http://donald108.com)!
+A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astronomy**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
 
 I'm currently working on:
 - Upgrading [my website](http://donald108.com) to add more functionality to user profiles.
