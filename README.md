@@ -6,11 +6,11 @@ I'm currently working on:
 - Creating my multiplayer game, [Pixl](http://pixl.gg).
 - [✨ Photographing the stars](http://stars.sh).
 
-Please check out my [GitLab](http://git.pa.ul.gr/explore) to explore some of my other projects.
+I do most of my work on my [GitLab](http://git.pa.ul.gr/explore). Please [check it out](http://git.pa.ul.gr/explore) to see some of my other projects!
 
 [![M81 & M82](https://donald108.com/static/images/background.jpg)](http://git.pa.ul.gr/explore)
 
-Email me: [`p@ul.gr`](mailto:p@ul.gr)
+[![](https://komarev.com/ghpvc/?username=komodo108&color=grey)](http://donald108.com) | Email me: [`p@ul.gr`](mailto:p@ul.gr)
 
 <!--
 **komodo108/komodo108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
