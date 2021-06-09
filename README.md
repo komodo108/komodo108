@@ -1,4 +1,4 @@
-# Hi, I'm [Paul](http://donald108.com)! [<img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/u/26580217">](http://donald108.com)
+# Hi, I'm [Paul](http://donald108.com)! 
 A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astronomy**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
 
 I'm currently working on:
@@ -14,6 +14,8 @@ I do most of my work on my [GitLab](http://git.pa.ul.gr/explore). Please [check 
 
 <!--
 **komodo108/komodo108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/u/26580217">
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
