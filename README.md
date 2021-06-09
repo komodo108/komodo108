@@ -1,4 +1,4 @@
-# Hi, I'm [Paul](http://donald108.com)!
+# Hi, I'm [Paul](http://donald108.com)! [<img align="right" width="150" height="150" src="https://avatars.githubusercontent.com/u/26580217">](http://donald108.com)
 A developer who's interested in [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash) & [**🔭 astronomy**](http://stars.sh/). I have experience in [C++](http://git.pa.ul.gr/university/divide-conquer), [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector) & some in [Rust](http://pixl.gg).
 
 I'm currently working on:
