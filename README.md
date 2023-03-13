@@ -1,5 +1,5 @@
 # Hi, I'm [Paul](http://donald108.com)! 
-A developer who's interested in [**🔭 astronomy**](http://stars.sh/) & [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash). I have experience in [Python](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Javascript](http://git.pa.ul.gr/university/unreal-selector), [C++](http://git.pa.ul.gr/university/divide-conquer) & some in [Rust](http://pixl.gg).
+A developer who's interested in [**🔭 astronomy**](http://stars.sh/) & [**🎮 novel game developmenet**](http://git.pa.ul.gr/university/space.trash). I have experience in [Python](http://git.pa.ul.gr/university/unreal-selector), [Typescript](http://git.pa.ul.gr/university/unreal-selector), [Java](http://git.pa.ul.gr/university/face-renderer), [Go](/), [C++](http://git.pa.ul.gr/university/divide-conquer) & a little in [Rust](http://pixl.gg).
 
 I'm currently working on:
 <!-- - Upgrading [my website](http://donald108.com) to add more functionality to user profiles.
@@ -9,7 +9,7 @@ I'm currently working on:
 
 Some of my work is hosted on my [personal GitLab](http://git.pa.ul.gr/explore), please [check it out](http://git.pa.ul.gr/explore) to see some of my other projects!
 
-[![My photograph of space](https://donald108.com/static/images/astro/m63.png)](http://git.pa.ul.gr/explore)
+[![My photograph of space](https://donald108.com/static/images/astro/gecko.png)](http://git.pa.ul.gr/explore)
 
 [![](https://komarev.com/ghpvc/?username=komodo108&color=222222)](http://donald108.com) | Email me: [`p@ul.gr`](mailto:p@ul.gr)
 
