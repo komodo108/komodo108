@@ -9,7 +9,7 @@ I'm currently working on:
 
 Some of my work is hosted on my [personal GitLab](http://git.pa.ul.gr/explore), please [check it out](http://git.pa.ul.gr/explore) to see some of my other projects!
 
-[![My photograph of space](https://donald108.com/static/images/astro/gecko.png)](http://git.pa.ul.gr/explore)
+[![My photograph of space](https://cdn.astrobin.com/thumbs/cgUy_aJSzx3L_16536x0_ieTZ0INm.jpg)](http://git.pa.ul.gr/explore)
 
 [![](https://komarev.com/ghpvc/?username=komodo108&color=222222)](http://donald108.com) | Email me: [`p@ul.gr`](mailto:p@ul.gr)
 
